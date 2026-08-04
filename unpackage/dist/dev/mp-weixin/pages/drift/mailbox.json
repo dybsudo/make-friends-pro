@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "vip-name": "../../components/VipName",
+    "soft-toast": "../../components/SoftToast",
+    "success-fly-modal": "../../components/SuccessFlyModal"
+  }
+}

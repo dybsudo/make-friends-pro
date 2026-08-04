@@ -1,0 +1,2 @@
+"use strict";const t=require("../common/vendor.js"),n=require("../common/assets.js"),c={name:"VipName",props:{name:{type:String,default:""},isMember:{type:Boolean,default:!1}}};function o(r,a,e,m,_,i){return t.e({a:t.t(e.name),b:e.isMember},e.isMember?{c:n._imports_0$3}:{},{d:e.isMember?1:""})}const s=t._export_sfc(c,[["render",o],["__scopeId","data-v-ecb449ec"]]);wx.createComponent(s);
+//# sourceMappingURL=../../.sourcemap/mp-weixin/components/VipName.js.map

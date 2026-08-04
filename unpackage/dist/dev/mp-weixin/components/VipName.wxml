@@ -1,0 +1,1 @@
+<view class="{{['vip-name', 'data-v-ecb449ec', d && 'member']}}"><text class="vip-name-text data-v-ecb449ec">{{a}}</text><image wx:if="{{b}}" class="vip-name-icon data-v-ecb449ec" src="{{c}}" mode="aspectFit"/></view>

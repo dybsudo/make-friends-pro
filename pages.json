@@ -1,0 +1,108 @@
+{
+	"pages": [
+		{
+			"path": "pages/launch/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"disableScroll": true,
+				"backgroundColor": "#FFFAFB",
+				"backgroundColorTop": "#FFFAFB",
+				"backgroundColorBottom": "#FFFAFB",
+				"initialRenderingCache": "static"
+			}
+		},
+		{
+			"path": "pages/square/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/create/index",
+			"style": {
+				"navigationBarTitleText": "发布",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/profileComplete/index",
+			"style": {
+				"navigationBarTitleText": "完善资料",
+				"navigationBarBackgroundColor": "#fffafd",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/success/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/detail/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/myRecords/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/favorites/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/about/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/profile/index",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "想法记录",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FAFAF8"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#d4688a",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "white",
+		"list": [
+			{
+				"pagePath": "pages/square/index",
+				"text": "广场",
+				"iconPath": "static/tab/home.png",
+				"selectedIconPath": "static/tab/home-active.png"
+			},
+			{
+				"pagePath": "pages/profile/index",
+				"text": "我的",
+				"iconPath": "static/tab/mine.png",
+				"selectedIconPath": "static/tab/mine-active.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

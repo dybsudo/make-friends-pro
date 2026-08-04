@@ -1,0 +1,1 @@
+{"version":3,"file":"search.js","sources":["api/search.js"],"sourcesContent":["import { request } from '../utils/request';\n\nexport function searchContent(params = {}) {\n\treturn request({ url: '/api/search', data: params });\n}\n"],"names":["searchContent","params","request"],"mappings":"oDAEO,SAASA,EAAcC,EAAS,GAAI,CAC1C,OAAOC,EAAAA,QAAQ,CAAE,IAAK,cAAe,KAAMD,CAAM,CAAE,CACpD"}

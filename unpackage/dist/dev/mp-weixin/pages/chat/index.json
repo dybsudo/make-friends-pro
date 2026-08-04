@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "vip-name": "../../components/VipName",
+    "svga-gift-player": "../../components/SvgaGiftPlayer"
+  }
+}

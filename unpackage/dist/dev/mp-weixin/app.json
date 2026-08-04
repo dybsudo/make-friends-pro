@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/launch/index",
+    "pages/meet/index",
+    "pages/square/index",
+    "pages/create/index",
+    "pages/profileComplete/index",
+    "pages/publish/index",
+    "pages/messages/index",
+    "pages/success/index",
+    "pages/detail/index",
+    "pages/expand/index",
+    "pages/myRecords/index",
+    "pages/records/index",
+    "pages/favorites/index",
+    "pages/album/index",
+    "pages/tasks/index",
+    "pages/diamonds/index",
+    "pages/charm/index",
+    "pages/giftGallery/index",
+    "pages/invite/index",
+    "pages/search/index",
+    "pages/membership/index",
+    "pages/membership/agreement",
+    "pages/about/index",
+    "pages/profile/index",
+    "pages/drift/write",
+    "pages/drift/detail",
+    "pages/drift/mailbox",
+    "pages/chat/index",
+    "pages/user/index",
+    "pages/follow/index",
+    "pages/notifications/index",
+    "pages/settings/privacy",
+    "pages/settings/blacklist"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "想法记录",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FAFAF8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#d4688a",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/meet/index",
+        "text": "遇见",
+        "iconPath": "static/tab/plaza.png",
+        "selectedIconPath": "static/tab/plaza-active.png"
+      },
+      {
+        "pagePath": "pages/square/index",
+        "text": "广场",
+        "iconPath": "static/tab/home.png",
+        "selectedIconPath": "static/tab/home-active.png"
+      },
+      {
+        "pagePath": "pages/messages/index",
+        "text": "消息",
+        "iconPath": "static/tab/message.png",
+        "selectedIconPath": "static/tab/message-icon.png"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的",
+        "iconPath": "static/tab/mine.png",
+        "selectedIconPath": "static/tab/mine-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.record": {
+      "desc": "用于录制和发送语音纸条"
+    }
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,22 @@
+{
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/membership/index",
+          "pathName": "pages/membership/index",
+          "query": "",
+          "scene": null,
+          "launchMode": "default"
+        },
+        {
+          "name": "pages/profileComplete/index",
+          "pathName": "pages/profileComplete/index",
+          "query": "redirect=%252Fpages%252Fdetail%252Findex%253Fid%253Dcapsule_mr0weg2spie5id",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

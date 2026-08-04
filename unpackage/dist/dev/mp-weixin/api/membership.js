@@ -1,0 +1,2 @@
+"use strict";const r=require("../utils/request.js");function i(){return r.request({url:"/api/membership"})}function s(e,t={}){return r.request({url:"/api/membership/orders",method:"POST",data:{planType:e,recipientUserId:t.recipientUserId||"",conversationId:t.conversationId||""}})}function n(e){return r.request({url:`/api/membership/orders/${encodeURIComponent(e||"")}`})}exports.createMembershipOrder=s;exports.fetchMembership=i;exports.fetchMembershipOrder=n;
+//# sourceMappingURL=../../.sourcemap/mp-weixin/api/membership.js.map

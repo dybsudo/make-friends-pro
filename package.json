@@ -1,0 +1,7 @@
+{
+  "name": "front-thought",
+  "private": true,
+  "dependencies": {
+    "svgaplayer-weapp": "1.0.0"
+  }
+}
