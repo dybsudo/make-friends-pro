@@ -1,9 +1,9 @@
 # 功能说明
 
 一套高完成度、商业级的 uni-app 情绪轻社交应用，完整覆盖“内容表达、兴趣相遇、信件社交、即时聊天、关系沉淀与商业变现”全链路。项目融合内容社区、同频交友、漂流信件和虚拟礼物等热门玩法，可快速用于打造树洞、漂流瓶、兴趣交友、校园社交及匿名社区类产品。后端服务+后台管理端齐全.
-预览地址: [预览地址](https://app.nelyo.online/) 
-预览地址: [预览地址](https://app.nelyo.online/) 
-预览地址: [预览地址](https://app.nelyo.online/) 
+br/ **预览地址**: [预览地址](https://app.nelyo.online/) 
+br/ **预览地址**: [预览地址](https://app.nelyo.online/) 
+br/ **预览地址**: [预览地址](https://app.nelyo.online/) 
 
 
 ## 核心功能
